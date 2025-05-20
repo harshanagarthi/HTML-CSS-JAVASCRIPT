@@ -38,7 +38,7 @@
     color: white;
     font-size: 24px;
     border: 2px solid white;
-    border-radius: 50px 50px 0 50px;
+    border-radius: 50px 50px 50px 50px;
     padding: 14px 50px;
     margin-top: 20px;
     transition: 0.5s;
@@ -47,6 +47,7 @@
 .content a:hover {
     background-color: #fff;
     color: black;
+    border-radius: 50px 50px 0 50px;
 }
 
 .back-video {
